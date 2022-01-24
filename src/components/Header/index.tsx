@@ -13,14 +13,12 @@ export default function Header({ openModal }: HeaderProps) {
       <header>
         <img src={Logo} alt="GoRestaurant" />
         <nav>
-          <div>
-            <button type="button" onClick={openModal}>
-              <div className="text">Novo Prato</div>
-              <div className="icon">
-                <FiPlusSquare size={24} />
-              </div>
-            </button>
-          </div>
+          <button type="button" onClick={openModal}>
+            <div className="text">Novo Prato</div>
+            <div className="icon">
+              <FiPlusSquare size={24} />
+            </div>
+          </button>
         </nav>
       </header>
     </Container>
