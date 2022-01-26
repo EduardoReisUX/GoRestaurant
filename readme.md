@@ -70,7 +70,7 @@ $ yarn start
 ## 👀 Demonstração
 
 <p align="center">
-<img src="github/ignews-demo.gif" alt="Demonstração do projeto"></img>
+<img src="github/goRestaurant-demo.gif" alt="Demonstração do projeto"></img>
 </p>
 
 ---
